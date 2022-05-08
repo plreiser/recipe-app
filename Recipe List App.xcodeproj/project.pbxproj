@@ -64,7 +64,7 @@
 		831EE67E25B0C74D00BACCDD /* Recipe List App */ = {
 			isa = PBXGroup;
 			children = (
-				831EE67F25B0C74D00BACCDD /* Recipe_List_App.swift */,
+				DB6BBBA62827CFD600D99474 /* Entry */,
 				831EE69025B0C76D00BACCDD /* Views */,
 				831EE69125B0C77200BACCDD /* ViewModels */,
 				831EE69225B0C77800BACCDD /* Models */,
@@ -125,6 +125,14 @@
 				831EE6A625B0CAD000BACCDD /* DataService.swift */,
 			);
 			path = Services;
+			sourceTree = "<group>";
+		};
+		DB6BBBA62827CFD600D99474 /* Entry */ = {
+			isa = PBXGroup;
+			children = (
+				831EE67F25B0C74D00BACCDD /* Recipe_List_App.swift */,
+			);
+			path = Entry;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
